@@ -1,5 +1,6 @@
 # world-generation
-Using voronoi polygonal meshes to procedurually generate terrain maps
+Using voronoi polygonal meshes to procedurually generate terrain maps.
+By using an irregular polygon mesh instead of just a grid of some sort, much more organic and irregular shapes can be produced.
 
 Run main.py", hit R to regenerate landscapes.
 
