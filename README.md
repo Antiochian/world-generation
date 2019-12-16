@@ -8,6 +8,4 @@ If you wand to change any of the settings you'll have to go into the "makedict" 
 
 Example Screenshots
 -------
-![sample1](sample1.png)
-![sample3](sample3.png)
-![sample2](sample2.png)
+![sample1](sample1.png) ![sample3](sample3.png) ![sample2](sample2.png)
